@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Mark
+
+- ⚡ Fun fact: Studied Information Science at Penn State University
+- 🌱 I’m currently learning ...
+- 😄 Arsenal Superfan
+
+
 
 <!--
 **mdzgithub/mdzgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
