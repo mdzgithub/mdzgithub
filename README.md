@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mark
 
 - ⚡ Fun fact: Studied Information Science at Penn State University
-- 🌱 Currently learning analtyics engineering
+- 🌱 Currently learning Analtyics Engineering, DevOps, CI/CD concepts
 - 😄 Arsenal Superfan
 
 
