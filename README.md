@@ -22,7 +22,7 @@
 
 ## Connect with Me
 
-[Add your social media or professional network links here]
+https://www.linkedin.com/in/mark-zindren/
 
 ---
 
