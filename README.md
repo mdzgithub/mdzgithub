@@ -2,8 +2,6 @@
 
 * ⚡ Fun fact: Studied Information Science at Penn State University
 * 🌱 Currently learning Analytics Engineering, DevOps, and CI/CD concepts
-* 🛠️ Experienced in data engineering, building robust ETL pipelines
-* 💾 Skilled in data management, including data governance and quality assurance
 * 📈 Proficient in SQL, Python, and modern data stack tools
 * 🔄 Advocate for data-driven decision making and continuous improvement
 * 😄 Arsenal Superfan
