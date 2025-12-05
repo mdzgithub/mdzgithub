@@ -1,21 +1,5 @@
 ### Hi there 👋 I'm Mark
 
-* ⚡ Fun fact: Studied Information Science at Penn State University
-* 🌱 Currently learning Analytics Engineering, DevOps, and CI/CD concepts
-* 📈 Proficient in SQL, Python, and modern data stack tools
-* 🔄 Advocate for data-driven decision making and continuous improvement
-* 😄 Arsenal Superfan
-
-## Skills
-
-- Data Visualization
-- Data Engineering
-- Data Management
-- SQL
-- Python
-- ETL Pipelines
-- Data Governance
-- Analytics Engineering
 
 ## Connect with Me
 
